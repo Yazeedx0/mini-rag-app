@@ -7,5 +7,5 @@ aiofiles==24.1.0
 langchain==0.3.20
 pypdf==5.3.1
 langchain-community==0.3.19
-
+motor==3.7.0
 
