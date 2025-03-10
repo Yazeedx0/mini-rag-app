@@ -1,7 +1,6 @@
 from fastapi import FastAPI, APIRouter, Depends
 from dotenv import load_dotenv
 from helpers.config import get_settings, Settings
-import os
 
 
 base_router = APIRouter(
